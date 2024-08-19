@@ -1,2 +1,2 @@
 # demo
-this is my first 
+this is my first git repository.
